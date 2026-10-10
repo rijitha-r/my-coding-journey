@@ -1,2 +1,2 @@
 # my-coding-journey
-My journey learning C, python and datascience
+My journey learning C, python and datascience.
